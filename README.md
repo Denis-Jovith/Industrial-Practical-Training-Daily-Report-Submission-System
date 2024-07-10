@@ -17,7 +17,7 @@ This repository contains the source code for the "Industrial Practical Training 
 - **Notification System**: Automated notifications remind students of submission deadlines and inform faculty members of new report submissions and approvals.
 
 #### Getting Started:
-1. Clone the repository: `git clone https://github.com/your-username/ipt-daily-report-submission-system.git`
+1. Clone the repository: `git clone https://github.com/Denis-Jovith/Industrial-Practical-Training-Daily-Report-Submission-System.git`
 2. Set up your web server and database according to the provided documentation.
 3. Configure the application with your database credentials and other required settings.
 4. Launch the application in your web browser to start using the system.
